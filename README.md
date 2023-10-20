@@ -1,2 +1,2 @@
-# site
-https://leonardobdev.github.io/parque
+# Parque
+https://leonardobdev.github.io/Parque
